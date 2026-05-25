@@ -18,4 +18,4 @@ Tips:
 - Log your work under .logs (create new log files as you see fit) to record your thought process and decisions, and reference them when iterating on features
 - Use playwright to test the visual output of your work, and iterate if it doesn't look right or fit the vibe
 - Use imagegen to generate visual assets for your work, and every time you generate a collection of assets, save the prompts you used to be able to continue generating more of the same assets later (create files in .prompts)
-- Use Context7 MCP to fetch <rendering framework> docs
+- Use Context7 MCP to fetch PixiJS docs
